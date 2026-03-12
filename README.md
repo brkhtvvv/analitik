@@ -2,6 +2,10 @@
 
 ## 1blok.docx - задания первого блока
 
+### 1 задание
+![Image alt](https://github.com/brkhtvvv/analitik/raw/main/1.png)
+
+
 ## python1-2.py - задания второго блока
 
 ##
